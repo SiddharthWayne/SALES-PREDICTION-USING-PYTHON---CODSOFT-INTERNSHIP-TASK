@@ -1,0 +1,8 @@
+Here is the requirements.txt file listing all the necessary dependencies for the Sales Prediction project:
+
+numpy==1.21.4
+pandas==1.3.5
+scikit-learn==1.0.1
+streamlit==1.2.0
+
+You can create this file manually or generate it using pip freeze to capture the exact versions currently installed in your environment.
